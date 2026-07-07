@@ -86,28 +86,6 @@ AI-powered healthcare assistant with voice interaction.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sabyg147&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sabyg147&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sabyg147&theme=tokyonight&hide_border=true"/>
-</p>
-
-## 📈 Contribution Graph
-
-[![Sabyasachi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sabyg147&theme=tokyo-night)](https://github.com/sabyg147)
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabyg147&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
 
 
 
