@@ -26,38 +26,6 @@ Building scalable backend systems, AI-powered applications and production-inspir
 
 ---
 
-## 🚀 Current Focus
-
-🔨 **Distributed Job Scheduler**
-
-A production-inspired backend built using
-
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-- Alembic
-- JWT Authentication
-- Docker
-
-Current Features
-
-- Authentication
-- Organizations
-- Projects
-- Queue Management
-- REST APIs
-- Database Migrations
-
-Upcoming
-
-- Worker Engine
-- Job Scheduler
-- Retry Mechanism
-- Monitoring Dashboard
-- Redis Integration
-- Kubernetes Deployment
-
----
 
 ## 💼 Featured Projects
 
