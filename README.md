@@ -89,6 +89,7 @@ AI-powered healthcare assistant with voice interaction.
 # 📊 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sabyg147&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=sabyg147&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
