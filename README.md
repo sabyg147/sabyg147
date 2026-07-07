@@ -90,20 +90,21 @@ AI-powered healthcare assistant with voice interaction.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabyg147&theme=github_dark)
 
 
-
+## Repositories per Language
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabyg147&theme=github_dark)
 
 ---
 ## Most Commit Language
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabyg147&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabyg147&theme=github_dark)
 
 ---
 
 # 📫 Connect With Me
 
 - 📧 sg9652@srmist.edu.in
-- 💼 LinkedIn: https://linkedin.com/in/sabyasachi-ghosh
+- 💼 LinkedIn: [https://linkedin.com/in/sabyasachi-ghosh](https://www.linkedin.com/in/sabyasachi-ghosh-8b4352338/)
 - 🌐 GitHub: https://github.com/sabyg147
 
 ---
