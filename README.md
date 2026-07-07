@@ -27,58 +27,6 @@ Building scalable backend systems, AI-powered applications and production-inspir
 ---
 
 
-## 💼 Featured Projects
-
-### ⚡ Distributed Job Scheduler
-
-Production-inspired backend system for asynchronous task processing.
-
-**Tech**
-
-`FastAPI` `PostgreSQL` `SQLAlchemy` `Docker` `JWT`
-
----
-
-### 🧠 LLM Hallucination Detection Pipeline
-
-Evaluates hallucinations using multiple LLMs with LangGraph and Retrieval-Augmented Generation.
-
-**Tech**
-
-`Python`
-`LangGraph`
-`Groq`
-`LLaMA`
-`Qwen`
-`ChromaDB`
-
----
-
-### 🧠 EEG Signal Analysis
-
-Machine Learning based mental health assessment using EEG brain signals.
-
-**Tech**
-
-`Python`
-`XGBoost`
-`Random Forest`
-`FastAPI`
-
----
-
-### 🩺 Medical Chatbot
-
-AI-powered healthcare assistant with voice interaction.
-
-**Tech**
-
-`React`
-`FastAPI`
-`Python`
-`SQL`
-
----
 
 # 💻 Tech Stack
 
