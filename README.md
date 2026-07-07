@@ -85,18 +85,16 @@ AI-powered healthcare assistant with voice interaction.
 ![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,react,html,css,tailwind,fastapi,nodejs,mysql,postgres,docker,git,github,vscode)
 
 ---
-
-
-
-
-# 📈 Contribution Graph
-
-[![Sabyasachi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sabyg147&theme=tokyo-night)](https://github.com/sabyg147)
-
----
 ## 📋 GitHub Profile Summary
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabyg147&theme=github_dark)
+
+
+
+
+---
+## Most Commit Language
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabyg147&theme=github_dark)
 
